@@ -583,7 +583,7 @@ section {
 /* About Us Section
 --------------------------------*/
 #about {
-  background: url("../img/about-bg.jpg") center top no-repeat fixed;
+  
   background-size: cover;
   padding: 60px 0 40px 0;
   position: relative;
@@ -595,7 +595,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.92);
+  
   z-index: 9;
 }
 #about .container {
@@ -630,7 +630,7 @@ section {
   justify-content: center;
 }
 .skill-mf span {
-  color: #4e4e4e;
+  color: #ff4500;
 }
 .skill-mf .progress {
   background-color: #cde1f8;
@@ -663,7 +663,7 @@ section {
   margin: 40px 0 12px 0;
 }
 #about .about-col h2 a {
-  color: #000;
+  color:white;
 }
 #about .about-col h2 a:hover {
   color: #ff4500;
